@@ -10,4 +10,9 @@ From the givrn graph, we try to analyze who wrote the disputed papers based on t
 
 The following graphs were generated based on the given dataset:
 <p>
-  <img src=""
+  <img src="Madison.png"><br>
+  <img src="Hamilton.png"><br>
+  <img src="Disputed.png"><br>
+  <img src="Jay.png"><br>
+  <img src="Shared.png"><br>
+ </p>
