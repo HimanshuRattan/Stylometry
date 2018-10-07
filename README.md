@@ -1,5 +1,5 @@
 # Stylometry
-Distinguishing authors their style of writing
+Distinguishing authors by their style of writing
 
 In the dataset, 51 papers have been written by Hamilton, 14 by Madison and 4 by Joy.
 3 of the papers were co written by Madison and Hamilton and their are 12 disputed papers.
